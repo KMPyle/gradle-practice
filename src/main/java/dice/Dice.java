@@ -1,0 +1,5 @@
+package dice
+
+class Dice{
+
+}
